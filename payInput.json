@@ -1,0 +1,15 @@
+{"claveRastreo": "$['folio_origen']",
+"conceptoPago": "$['conceptoPago']",
+"cuentaBeneficiario":  "$['cuentaBeneficiario']",
+"empresa": "SERV_TESO_CONSO",
+"institucionContraparte": "$['banco']",
+"institucionOperante": "90646",
+"monto": "$['monto']",
+"nombreBeneficiario": "$['nombreBeneficiario']",
+"referenciaNumerica": "$['referenciaNumerica']",
+"rfcCurpBeneficiario": "$['rfcCurpBeneficiario']",
+"tipoCuentaBeneficiario": "40",
+"tipoCuentaOrdenante": "40",
+"tipoPago": "1",
+"topologia": "V"
+}
